@@ -1,7 +1,7 @@
 theme: jekyll-theme-architect
 title: Caudatech
 google_analytics: UA-113376033-1
-description: Help when you need to scale your cloud application
+description: Solutions when you need to scale your cloud application
 github:
   is_project_page: false
   is_user_page: false
